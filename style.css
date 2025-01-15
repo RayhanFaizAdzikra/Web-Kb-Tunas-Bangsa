@@ -1,0 +1,8 @@
+.banner {
+    background-image: url(Img/Backround.jpg); /* Periksa jalur ini */
+    background-size: cover;
+    background-position: center;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+  }
